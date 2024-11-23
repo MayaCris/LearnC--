@@ -1,0 +1,6 @@
+@LightHouse_HostAddress = http://localhost:5047
+
+GET {{LightHouse_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LightHouse", "LightHouse.csproj", "{CA536279-E62B-4A2A-B259-60AEE343E645}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA536279-E62B-4A2A-B259-60AEE343E645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA536279-E62B-4A2A-B259-60AEE343E645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA536279-E62B-4A2A-B259-60AEE343E645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA536279-E62B-4A2A-B259-60AEE343E645}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B311FD00-63D9-4499-8D5D-5053A6379AB2}
+	EndGlobalSection
+EndGlobal
